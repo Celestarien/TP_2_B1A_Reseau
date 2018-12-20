@@ -1,7 +1,7 @@
 # TP 2 RÉSEAU
-## I)
+## I) Exploration locale en solo
 
-### 1)
+### 1) Affichage d'informations sur la pile TCP/IP locale
 
 #### **Affichez les infos des cartes réseau de votre PC :**
 
@@ -50,7 +50,7 @@
 À quoi sert la gateway dans le réseau d'Ingésup ?
 Son but est de faire la liaison entre deux réseaux, afin de faire l'interface entre des protocoles réseau différents.
 
-### 2)
+### 2) Modifications des informations
 
 ##### A. Modification d'adresse IP - pt. 1
 
