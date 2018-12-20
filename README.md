@@ -59,7 +59,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 ###### 1ère IP du réseau = 10.33.0.1
 ###### Dernière IP du réseau = 10.33.3.254
-* Pour modifier votre adresse IP avec une interface graphique :
+#### **Pour modifier votre adresse IP avec une interface graphique :**
 1)	Allez dans vos paramètres
 2)	Cliquez sur ```« Réseau et Internet »```
 3)	Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
