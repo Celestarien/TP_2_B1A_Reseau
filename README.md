@@ -141,18 +141,18 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 4) Sur le PC qui a toujours internet :
 
-* 5) Tapez dans votre barre de recherche ```« Paramètres »```
+* 1) Tapez dans votre barre de recherche ```« Paramètres »```
 
-* 6) Cliquez sur ```« Réseau et Internet »```
+* 2) Cliquez sur ```« Réseau et Internet »```
 
-* 7) Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
+* 3) Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
 
-* 8) Double-cliquez sur votre interface Wi-Fi
+* 4) Double-cliquez sur votre interface Wi-Fi
 
-* 9) Cliquez sur ```« Propriétés »```
+* 5) Cliquez sur ```« Propriétés »```
 
-* 10) Puis cliquez sur ```« Partage »```
+* 6) Puis cliquez sur ```« Partage »```
 
-* 11) Cochez ```« Autoriser d'autres utilisateurs du réseau à se connecter via la connexion Internet de cet ordinateur »```
+* 7) Cochez ```« Autoriser d'autres utilisateurs du réseau à se connecter via la connexion Internet de cet ordinateur »```
 
-* 12) Et pour finir, cliquez sur ```« Ok »```
+* 8) Et pour finir, cliquez sur ```« Ok »```
