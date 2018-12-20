@@ -143,16 +143,16 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 * 1) Tapez dans votre barre de recherche ```« Paramètres »```
 
-* 2) Cliquez sur ```« Réseau et Internet »```
+* Cliquez sur ```« Réseau et Internet »```
 
-* 3) Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
+* Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
 
-* 4) Double-cliquez sur votre interface Wi-Fi
+* Double-cliquez sur votre interface Wi-Fi
 
-* 5) Cliquez sur ```« Propriétés »```
+* Cliquez sur ```« Propriétés »```
 
-* 6) Puis cliquez sur ```« Partage »```
+* Puis cliquez sur ```« Partage »```
 
-* 7) Cochez ```« Autoriser d'autres utilisateurs du réseau à se connecter via la connexion Internet de cet ordinateur »```
+* Cochez ```« Autoriser d'autres utilisateurs du réseau à se connecter via la connexion Internet de cet ordinateur »```
 
 * 8) Et pour finir, cliquez sur ```« Ok »```
