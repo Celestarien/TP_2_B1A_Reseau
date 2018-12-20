@@ -162,3 +162,20 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 1)	Appuyez sur : ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3) Tapez la commande ```« ping <L'adresse IP de la seconde machine> »```
+
+### 5) Petit chat privé ?
+
+#### Pré-requis :
+
+* Installation de netcat
+* 2 PCs (un client et un serveur)
+
+#### Utilisation de netcat :
+
+##### Le PC client :
+
+* Éxécuter la commande ```« nc.exe <IP du serveur> <port d'écoute> »```
+
+##### Le PC serveur :
+
+* Éxécuter la commande ```« nc.exe -l -p <port d'écoute> »```
