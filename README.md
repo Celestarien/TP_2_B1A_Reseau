@@ -50,9 +50,7 @@
 À quoi sert la gateway dans le réseau d'Ingésup ?
 Son but est de faire la liaison entre deux réseaux, afin de faire l'interface entre des protocoles réseau différents.
 
-# ******************************
-#       INSERTION IMAGE
-# ******************************
+https://user-images.githubusercontent.com/43401854/50291529-24fdbb00-046f-11e9-8b12-5da1f33bc328.png
 
 ### 2) Modifications des informations
 
