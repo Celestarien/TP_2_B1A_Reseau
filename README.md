@@ -156,3 +156,9 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 * Cochez ```« Autoriser d'autres utilisateurs du réseau à se connecter via la connexion Internet de cet ordinateur »```
 
 * Et pour finir, cliquez sur ```« Ok »```
+
+#### **Tester la connectivité :**
+
+1)	Appuyez sur : ```(la touche Windows) + R```
+2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
+3) Tapez la commande ```« ping <L'adresse IP de la seconde machine> »```
