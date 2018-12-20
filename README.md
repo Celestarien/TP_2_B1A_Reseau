@@ -50,6 +50,10 @@
 À quoi sert la gateway dans le réseau d'Ingésup ?
 Son but est de faire la liaison entre deux réseaux, afin de faire l'interface entre des protocoles réseau différents.
 
+# ******************************
+#       INSERTION IMAGE
+# ******************************
+
 ### 2) Modifications des informations
 
 ##### A. Modification d'adresse IP - pt. 1
@@ -95,4 +99,5 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 9)	Remplissez votre masque de sous-réseau par votre masque réseau actuelle
 10)	Remplissez ```« Passerelle par défaut »``` par une gateway aléatoire
 11)	Pour finir, cliquez sur ```« Ok »```
+
 
