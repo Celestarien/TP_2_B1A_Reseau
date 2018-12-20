@@ -132,7 +132,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 ### 4) Utilisation d'un des deux comme gateway
 
-* Utilisez Internet grâce à un second PC :
+#### Utilisez Internet grâce à un second PC :
 
 1) Désactivez l'interface WiFi sur l'un des deux postes
 2) S'assurer de la bonne connectivité entre les deux PCs à travers le câble RJ45
