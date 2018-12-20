@@ -103,6 +103,8 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 ### 3) Modification d'adresse IP
 
+###### Pour réaliser les actions suivantes, il faut relier vos 2 PCs avec un câble RJ45 !
+
 * Modifier l'IP 2 machines afin qu'elles soient dans un même réseau :
 
 1)	Allez dans vos paramètres
@@ -113,5 +115,18 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 6)	Cherchez et double-cliquez sur ```« Protocole Internet version 4(TCP/IPv4) »```
 7)	Cochez la case ```« Utiliser l’adresse IP suivante : »```
 8)	Remplissez dans ```« Adresse IP  »``` l'adresse IP que vous souhaitez.
-**<span style="color: red">ATTENTION</span>** : Les 3 premiers chiffres de l'adresse IP doivent être identique sur les 2 PCs !
+##### :a: **TTENTION** : Les 3 premiers chiffres de l'adresse IP doivent être identique sur les 2 PCs !
 9)	Remplissez votre masque de sous-réseau par ```« 255.255.255.0 »```
+
+* Vérification des changements :
+
+1)	Appuyez sur : ```(la touche Windows) + R```
+2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
+3)	Par la suite tapez ```« ipconfig -all »```
+4) Cherchez la ligne ```« Adresse IPv4 »``` et regardez si l'adresse IP correspond à celle que vous avez entrez
+
+* Utiliser la connectivité entre les 2 machines :
+1)	Appuyez sur : ```(la touche Windows) + R```
+2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
+3) Tapez la commande ```« ping <L'adresse IP de la seconde machine> »```
+
