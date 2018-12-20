@@ -141,7 +141,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 4) Sur le PC qui a toujours internet :
 
-* 1) Tapez dans votre barre de recherche ```« Paramètres »```
+* Tapez dans votre barre de recherche ```« Paramètres »```
 
 * Cliquez sur ```« Réseau et Internet »```
 
@@ -155,4 +155,4 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 * Cochez ```« Autoriser d'autres utilisateurs du réseau à se connecter via la connexion Internet de cet ordinateur »```
 
-* 8) Et pour finir, cliquez sur ```« Ok »```
+* Et pour finir, cliquez sur ```« Ok »```
