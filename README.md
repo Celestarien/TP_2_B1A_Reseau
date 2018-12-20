@@ -130,3 +130,19 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3) Tapez la commande ```« ping <L'adresse IP de la seconde machine> »```
 
+### 4) Utilisation d'un des deux comme gateway
+
+* Utilisez Internet grâce à un second PC :
+
+1) Désactivez l'interface WiFi sur l'un des deux postes
+2) S'assurer de la bonne connectivité entre les deux PCs à travers le câble RJ45
+3.1) Sur le PC qui n'a plus internet, sur la carte Ethernet, définir comme passerelle l'adresse IP de l'autre PC
+3.2) Sur le PC qui a toujours internet :
+3.2.1) Tapez dans votre barre de recherche ```« Paramètres »```
+3.2.2) Cliquez sur ```« Réseau et Internet »```
+3.2.3) Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
+3.2.4) Double-cliquez sur votre interface Wi-Fi
+3.2.5) Cliquez sur ```« Propriétés »```
+3.2.6) Puis cliquez sur ```« Partage »```
+3.2.7) Cochez ```« Autoriser d'autres utilisateurs du réseau à se connecter via la connexion Internet de cet ordinateur »```
+3.2.8) Et pour finir, cliquez sur ```« Ok »```
