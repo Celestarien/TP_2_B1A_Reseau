@@ -56,7 +56,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 ### 2) Modifications des informations
 
-##### A. Modification d'adresse IP - pt. 1
+##### **A. Modification d'adresse IP - pt. 1**
 
 
 ###### 1ère IP du réseau = 10.33.0.1
@@ -75,7 +75,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 11)	Pour finir, cliquez sur ```« Ok »```
 
 
-##### B.Nmap
+##### **B.Nmap**
 
 
 1)	Appuyez sur : ```(la touche Windows) + R```
@@ -87,7 +87,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 7)	Cherchez un adresse IP libre
 
 
-##### C. Modification d'adresse IP - pt. 2
+##### **C. Modification d'adresse IP - pt. 2**
 1)	Allez dans vos paramètres
 2)	Cliquez sur ```« Réseau et Internet »```
 3)	Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
