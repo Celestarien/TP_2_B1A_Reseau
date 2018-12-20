@@ -99,3 +99,19 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 11)	Pour finir, cliquez sur ```« Ok »```
 
 
+## II) Exploration locale en duo
+
+### 3) Modification d'adresse IP
+
+* Modifier l'IP 2 machines afin qu'elles soient dans un même réseau :
+
+1)	Allez dans vos paramètres
+2)	Cliquez sur ```« Réseau et Internet »```
+3)	Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
+4)	Double-cliquez sur votre interface Wi-Fi
+5)	Cliquez sur ```« Propriétés »```
+6)	Cherchez et double-cliquez sur ```« Protocole Internet version 4(TCP/IPv4) »```
+7)	Cochez la case ```« Utiliser l’adresse IP suivante : »```
+8)	Remplissez dans ```« Adresse IP  »``` l'adresse IP que vous souhaitez.
+### :a: **TTENTION** : Les 3 premiers chiffres de l'adresse IP doivent être identique sur les 2 PCs !
+9)	Remplissez votre masque de sous-réseau par ```« 255.255.255.0 »```
