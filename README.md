@@ -125,7 +125,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 3)	Par la suite tapez ```« ipconfig -all »```
 4) Cherchez la ligne ```« Adresse IPv4 »``` et regardez si l'adresse IP correspond à celle que vous avez entrez
 
-#### **Utiliser la connectivité entre les 2 machines :**
+#### **Tester la connectivité entre les 2 machines :**
 1)	Appuyez sur : ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3) Tapez la commande ```« ping <L'adresse IP de la seconde machine> »```
