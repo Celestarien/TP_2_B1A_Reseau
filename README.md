@@ -138,6 +138,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 2) S'assurer de la bonne connectivité entre les deux PCs à travers le câble RJ45
 
 3) Sur le PC qui n'a plus internet, sur la carte Ethernet, définir comme passerelle l'adresse IP de l'autre PC
+
 4) Sur le PC qui a toujours internet :
 
 5) Tapez dans votre barre de recherche ```« Paramètres »```
