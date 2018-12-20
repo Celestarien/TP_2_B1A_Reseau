@@ -60,7 +60,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 * Pour modifier votre adresse IP avec une interface graphique :
 1)	Allez dans vos paramètres
 2)	Cliquez sur ```« Réseau et Internet »```
-3)	Cherchez ```« Modifier vos paramètres réseau » puis cliquez « Modifier les options d’adaptateur »```
+3)	Cherchez ```« Modifier vos paramètres réseau »``` puis cliquez ```« Modifier les options d’adaptateur »```
 4)	Double-cliquez sur votre interface Wi-Fi
 5)	Cliquez sur ```« Propriétés »```
 6)	Cherchez et double-cliquez sur ```« Protocole Internet version 4(TCP/IPv4) »```
