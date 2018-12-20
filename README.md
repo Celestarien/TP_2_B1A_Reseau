@@ -113,5 +113,5 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 6)	Cherchez et double-cliquez sur ```« Protocole Internet version 4(TCP/IPv4) »```
 7)	Cochez la case ```« Utiliser l’adresse IP suivante : »```
 8)	Remplissez dans ```« Adresse IP  »``` l'adresse IP que vous souhaitez.
-### :a: **TTENTION** : Les 3 premiers chiffres de l'adresse IP doivent être identique sur les 2 PCs !
+##### :a: **TTENTION** : Les 3 premiers chiffres de l'adresse IP doivent être identique sur les 2 PCs !
 9)	Remplissez votre masque de sous-réseau par ```« 255.255.255.0 »```
