@@ -179,3 +179,53 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 ##### Le PC serveur :
 
 * Éxécuter la commande ```« nc.exe -l -p <port d'écoute> »```
+
+
+## III) Manipulations d'autres outils/protocoles côté client
+
+### 1) DHCP
+
+#### Afficher le DHCP :
+
+* Allez dans vos paramètres
+* Puis allez dans ```Réseau et Internet```
+* Cliquez sur ```Modfier les options d'adaptateur```
+* Ensuite, cliquez 2 fois sur votre réseau
+* Allez dans ```Détails...```
+* Et cherchez la ligne : ```Serveur DHCP IPv4```
+
+#### Date d'expiration du bail :
+
+* Allez dans vos paramètres
+* Puis allez dans ```Réseau et Internet```
+* Cliquez sur ```Modfier les options d'adaptateur```
+* Ensuite, cliquez 2 fois sur votre réseau
+* Allez dans ```Détails...```
+* Et cherchez la ligne : ```Bail expirant```
+
+#### Changer d'IP :
+
+1)	Appuyez sur : ```(la touche Windows) + R```
+2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
+3) Tapez la commande ```« ipconfig /release »```
+
+### 2) DNS
+
+#### Afficher le DNS :
+
+* Allez dans vos paramètres
+* Puis allez dans ```Réseau et Internet```
+* Cliquez sur ```Modfier les options d'adaptateur```
+* Ensuite, cliquez 2 fois sur votre réseau
+* Allez dans ```Détails...```
+* Et cherchez la ligne : ```Serveur DNS IPv4```
+
+#### Loockup
+
+###### Le ```lookup``` nous permet de savoir l'IP d'un domaine à partir de son nom.
+
+#### Reverse Loockup
+
+###### Le ```reverse loockup``` quant à lui nous permet de connaitre le nom de domaine à partir d'une IP
+
+
