@@ -226,6 +226,6 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 
 #### Reverse Loockup
 
-###### Le ```reverse loockup``` quant à lui nous permet de connaitre le nom de domaine à partir d'une IP
+###### Le ```reverse loockup``` quant à lui nous permet de connaitre le nom de domaine à partir d'une IP.
 
 
