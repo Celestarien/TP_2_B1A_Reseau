@@ -188,20 +188,20 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 #### Afficher le DHCP :
 
 * Allez dans vos paramètres
-* Puis allez dans ```Réseau et Internet```
-* Cliquez sur ```Modfier les options d'adaptateur```
+* Puis allez dans ```« Réseau et Internet »```
+* Cliquez sur ```« Modfier les options d'adaptateur »```
 * Ensuite, cliquez 2 fois sur votre réseau
-* Allez dans ```Détails...```
-* Et cherchez la ligne : ```Serveur DHCP IPv4```
+* Allez dans ```« Détails... »```
+* Et cherchez la ligne : ```« Serveur DHCP IPv4 »```
 
 #### Date d'expiration du bail :
 
 * Allez dans vos paramètres
-* Puis allez dans ```Réseau et Internet```
-* Cliquez sur ```Modfier les options d'adaptateur```
+* Puis allez dans ```« Réseau et Internet »```
+* Cliquez sur ```« Modfier les options d'adaptateur »```
 * Ensuite, cliquez 2 fois sur votre réseau
-* Allez dans ```Détails...```
-* Et cherchez la ligne : ```Bail expirant```
+* Allez dans ```« Détails... »```
+* Et cherchez la ligne : ```« Bail expirant »```
 
 #### Changer d'IP :
 
@@ -214,11 +214,11 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 #### Afficher le DNS :
 
 * Allez dans vos paramètres
-* Puis allez dans ```Réseau et Internet```
-* Cliquez sur ```Modfier les options d'adaptateur```
+* Puis allez dans ```« Réseau et Internet »```
+* Cliquez sur ```« Modfier les options d'adaptateur »```
 * Ensuite, cliquez 2 fois sur votre réseau
-* Allez dans ```Détails...```
-* Et cherchez la ligne : ```Serveur DNS IPv4```
+* Allez dans ```« Détails... »```
+* Et cherchez la ligne : ```« Serveur DNS IPv4 »```
 
 #### Loockup
 
