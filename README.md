@@ -10,7 +10,7 @@
 1)	Appuyez sur : ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3)	Par la suite tapez ```« ipconfig -all »```
-4)	Cherchez la ligne ```« Carte réseau sans fil Wi-Fi : »``` qui n’est d’autre que le nom de votre carte réseau sans fil
+4)	Cherchez la ligne ```« Carte réseau sans fil Wi-Fi : »``` qui n’est autre que le nom de votre carte réseau sans fil
 5)	Dans cette catégorie, cherchez la ligne ```« Adresse physique »``` qui correspond à votre adresse MAC (elle est unique)
 6)	Ensuite si vous désirez trouver votre adresse IP, cherchez la ligne ```« Adresse IPv4 »```
 
