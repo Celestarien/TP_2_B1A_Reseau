@@ -173,7 +173,7 @@ Prenez un câble (RJ45) et branchez-le des deux côtés.
 
 ### 5) Petit "chat" privé ?
 
-#### Pré-requis :
+#### prérequis :
 
 * Installation de netcat
 * 2 PCs (un client et un serveur)
@@ -200,7 +200,7 @@ Prenez un câble (RJ45) et branchez-le des deux côtés.
 * Cliquez sur ```« Modfier les options d'adaptateur »```
 * Ensuite, cliquez 2 fois sur votre réseau
 * Allez dans ```« Détails... »```
-* Et cherchez la ligne : ```« Serveur DHCP IPv4 »```
+* Et cherchez la ligne ```« Serveur DHCP IPv4 »```
 
 #### Date d'expiration du bail :
 
@@ -209,7 +209,7 @@ Prenez un câble (RJ45) et branchez-le des deux côtés.
 * Cliquez sur ```« Modfier les options d'adaptateur »```
 * Ensuite, cliquez 2 fois sur votre réseau
 * Allez dans ```« Détails... »```
-* Et cherchez la ligne : ```« Bail expirant »```
+* Et cherchez la ligne ```« Bail expirant »```
 
 #### Changer d'IP :
 
@@ -226,14 +226,14 @@ Prenez un câble (RJ45) et branchez-le des deux côtés.
 * Cliquez sur ```« Modfier les options d'adaptateur »```
 * Ensuite, cliquez 2 fois sur votre réseau
 * Allez dans ```« Détails... »```
-* Et cherchez la ligne : ```« Serveur DNS IPv4 »```
+* Et cherchez la ligne ```« Serveur DNS IPv4 »```
 
-#### Loockup
+#### Lookup
 
 ###### Le ```lookup``` nous permet de savoir l'IP d'un domaine à partir de son nom.
 
-#### Reverse Loockup
+#### Reverse lookup
 
-###### Le ```reverse loockup``` quant à lui nous permet de connaitre le nom de domaine à partir d'une IP.
+###### Le ```reverse lookup``` quant à lui nous permet de connaitre le nom de domaine à partir d'une IP.
 
 
