@@ -94,18 +94,26 @@ Son but est de réaliser la liaison entre deux réseaux, afin de faire l'interfa
 6)	Cherchez et double-cliquez sur ```« Protocole Internet version 4(TCP/IPv4) »```
 7)	Cochez la case ```« Utiliser l’adresse IP suivante : »```
 8)	Remplissez dans ```« Adresse IP  »``` votre adresse IP actuelle mais en changeant le dernier chiffre.
-9)	Remplissez votre masque de sous-réseau par votre masque réseau actuelle
+9)	Remplissez votre masque de sous-réseau par votre masque réseau actuel
 10)	Remplissez ```« Passerelle par défaut »``` par une gateway aléatoire
 11)	Pour finir, cliquez sur ```« Ok »```
 
 
 ## II) Exploration locale en duo
 
+### 1) Prérequis
+* Deux Pcs avec ports RJ45
+* Un câble RJ45
+* **Firewalls désativés** sur les deux PCs
+
+### 2) Câblage
+Prenez un câble (RJ45) et branchez-le des deux côtés.
+
 ### 3) Modification d'adresse IP
 
 ###### Pour réaliser les actions suivantes, il faut relier vos 2 PCs avec un câble RJ45 !
 
-#### **Modifier l'IP 2 machines afin qu'elles soient dans un même réseau :**
+#### **Modifiez l'IP de 2 machines afin qu'elles soient dans un même réseau :**
 
 1)	Allez dans vos paramètres
 2)	Cliquez sur ```« Réseau et Internet »```
@@ -115,7 +123,7 @@ Son but est de réaliser la liaison entre deux réseaux, afin de faire l'interfa
 6)	Cherchez et double-cliquez sur ```« Protocole Internet version 4(TCP/IPv4) »```
 7)	Cochez la case ```« Utiliser l’adresse IP suivante : »```
 8)	Remplissez dans ```« Adresse IP  »``` l'adresse IP que vous souhaitez.
-###### :a: **TTENTION** : Les 3 premiers chiffres de l'adresse IP doivent être identique sur les 2 PCs !
+###### :a: **TTENTION** : Les 3 premiers chiffres de l'adresse IP doivent être identiques sur les 2 PCs !
 9)	Remplissez votre masque de sous-réseau par ```« 255.255.255.0 »```
 
 #### **Vérification des changements :**
@@ -123,21 +131,21 @@ Son but est de réaliser la liaison entre deux réseaux, afin de faire l'interfa
 1)	Appuyez sur : ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3)	Par la suite tapez ```« ipconfig -all »```
-4) Cherchez la ligne ```« Adresse IPv4 »``` et regardez si l'adresse IP correspond à celle que vous avez entrez
+4) Cherchez la ligne ```« Adresse IPv4 »``` et regardez si l'adresse IP correspond à celle que vous avez entré
 
-#### **Tester la connectivité entre les 2 machines :**
+#### **Testez la connectivité entre les 2 machines :**
 1)	Appuyez sur : ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3) Tapez la commande ```« ping <L'adresse IP de la seconde machine> »```
 
-### 4) Utilisation d'un des deux comme gateway
+### 4) Utilisation d'un des deux ordinateurs comme gateway
 
 #### **Utilisez Internet grâce à un second PC :**
 
 1) Désactivez l'interface WiFi sur l'un des deux postes
 2) S'assurer de la bonne connectivité entre les deux PCs à travers le câble RJ45
 
-3) Sur le PC qui n'a plus internet, sur la carte Ethernet, définir comme passerelle l'adresse IP de l'autre PC
+3) Sur le PC qui n'a plus internet, définir comme passerelle l'adresse IP de l'autre PC sur la carte Ethernet
 
 4) Sur le PC qui a toujours internet :
 
@@ -157,7 +165,7 @@ Son but est de réaliser la liaison entre deux réseaux, afin de faire l'interfa
 
 * Et pour finir, cliquez sur ```« Ok »```
 
-#### **Tester la connectivité :**
+#### **Testez la connectivité :**
 
 1)	Appuyez sur : ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
