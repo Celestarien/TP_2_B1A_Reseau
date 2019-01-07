@@ -23,7 +23,7 @@
 1)	Appuyez sur : ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3)	Par la suite tapez ```« ipconfig -all »```
-4)	Cherchez la ligne ```« Carte Ethernet Ethernet : »``` qui n’est d’autre que le nom de votre carte réseau ethernet
+4)	Cherchez la ligne ```« Carte Ethernet Ethernet : »``` qui n’est autre que le nom de votre carte réseau éthernet
 5)	Dans cette catégorie, cherchez la ligne ```« Adresse physique »``` qui correspond à votre adresse MAC (elle est unique)
 6)	Ensuite si vous désirez trouver votre adresse IP, cherchez la ligne ```« Adresse IPv4 »``` (vous pouvez la voir uniquement si votre PC est branché en Ethernet à votre routeur)
 ###### La carte Ethernet ne possède pas d’adresse IP donc il nous est impossible de calculer son adresse de réseau et donc aussi son adresse de broadcast.
@@ -48,7 +48,7 @@
 5)	Et enfin, cliquez sur « Détails… »
 
 À quoi sert la gateway dans le réseau d'Ingésup ?
-Son but est de faire la liaison entre deux réseaux, afin de faire l'interface entre des protocoles réseau différents.
+Son but est de réaliser la liaison entre deux réseaux, afin de faire l'interface entre des protocoles réseau différents.
 
 ![Image pour TP 2](https://user-images.githubusercontent.com/43401854/50291529-24fdbb00-046f-11e9-8b12-5da1f33bc328.png)
 
@@ -68,7 +68,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 6)	Cherchez et double-cliquez sur ```« Protocole Internet version 4(TCP/IPv4) »```
 7)	Cochez la case ```« Utiliser l’adresse IP suivante : »```
 8)	Remplissez dans ```« Adresse IP »``` votre adresse IP actuelle mais en changeant le dernier chiffre.
-9)	Remplissez votre masque de sous-réseau par votre masque réseau actuelle
+9)	Remplissez votre masque de sous-réseau par votre masque réseau actuel
 10)	Remplissez ```« Passerelle par défaut »``` par votre gateway/passerelle par défaut actuelle
 11)	Pour finir, cliquez sur ```« Ok »```
 
@@ -82,7 +82,7 @@ Son but est de faire la liaison entre deux réseaux, afin de faire l'interface e
 4)	Tapez la commande : ```« cd\ »```
 5)	Puis accédez à votre répertoire où se situe Nmap
 6)	Par la suite tapez : ```« nmap -sn -PE <ADRESSE_DU_RESEAU_CIBLE> »```
-7)	Cherchez un adresse IP libre
+7)	Cherchez une adresse IP libre
 
 
 ##### **C. Modification d'adresse IP - pt. 2**
