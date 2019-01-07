@@ -7,7 +7,7 @@
 
 
 * Pour l’interface Wi-Fi :
-1)	Appuyez sur : ```(la touche Windows) + R```
+1)	Appuyez sur ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3)	Par la suite tapez ```« ipconfig -all »```
 4)	Cherchez la ligne ```« Carte réseau sans fil Wi-Fi : »``` qui n’est autre que le nom de votre carte réseau sans fil
@@ -20,7 +20,7 @@
 
 
 * Pour l’interface Ethernet :
-1)	Appuyez sur : ```(la touche Windows) + R```
+1)	Appuyez sur ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3)	Par la suite tapez ```« ipconfig -all »```
 4)	Cherchez la ligne ```« Carte Ethernet Ethernet : »``` qui n’est autre que le nom de votre carte réseau éthernet
@@ -31,7 +31,7 @@
 
 #### **Affichez votre gateway :**
 
-1)	Appuyez sur : ```(la touche Windows) + R```
+1)	Appuyez sur ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3)	Par la suite tapez ```« ipconfig -all »```
 4)	Cherchez la ligne ```« Carte réseau sans fil Wi-Fi : »```
@@ -76,7 +76,7 @@ Son but est de réaliser la liaison entre deux réseaux, afin de faire l'interfa
 ##### **B.Nmap**
 
 
-1)	Appuyez sur : ```(la touche Windows) + R```
+1)	Appuyez sur ```(la touche Windows) + R```
 2)	Tapez ```« cmd »```
 3)	 Faites un clic droit dessus et cliquez sur ```« Ouvrir en tant qu’administrateur »```
 4)	Tapez la commande : ```« cd\ »```
@@ -128,13 +128,13 @@ Prenez un câble (RJ45) et branchez-le des deux côtés.
 
 #### **Vérification des changements :**
 
-1)	Appuyez sur : ```(la touche Windows) + R```
+1)	Appuyez sur ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3)	Par la suite tapez ```« ipconfig -all »```
 4) Cherchez la ligne ```« Adresse IPv4 »``` et regardez si l'adresse IP correspond à celle que vous avez entré
 
 #### **Testez la connectivité entre les 2 machines :**
-1)	Appuyez sur : ```(la touche Windows) + R```
+1)	Appuyez sur ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3) Tapez la commande ```« ping <L'adresse IP de la seconde machine> »```
 
@@ -167,11 +167,11 @@ Prenez un câble (RJ45) et branchez-le des deux côtés.
 
 #### **Testez la connectivité :**
 
-1)	Appuyez sur : ```(la touche Windows) + R```
+1)	Appuyez sur ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3) Tapez la commande ```« ping <L'adresse IP de la seconde machine> »```
 
-### 5) Petit chat privé ?
+### 5) Petit "chat" privé ?
 
 #### Pré-requis :
 
@@ -182,11 +182,11 @@ Prenez un câble (RJ45) et branchez-le des deux côtés.
 
 ##### Le PC client :
 
-* Éxécuter la commande ```« nc.exe <IP du serveur> <port d'écoute> »```
+* Exécutez la commande ```« nc.exe <IP du serveur> <port d'écoute> »```
 
 ##### Le PC serveur :
 
-* Éxécuter la commande ```« nc.exe -l -p <port d'écoute> »```
+* Exécutez la commande ```« nc.exe -l -p <port d'écoute> »```
 
 
 ## III) Manipulations d'autres outils/protocoles côté client
@@ -213,7 +213,7 @@ Prenez un câble (RJ45) et branchez-le des deux côtés.
 
 #### Changer d'IP :
 
-1)	Appuyez sur : ```(la touche Windows) + R```
+1)	Appuyez sur ```(la touche Windows) + R```
 2)	Tapez ```« cmd »``` et appuyez sur la touche ```« ENTRÉE »```
 3) Tapez la commande ```« ipconfig /release »```
 
